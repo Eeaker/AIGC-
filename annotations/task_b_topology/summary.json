@@ -1,0 +1,78 @@
+{
+  "graph": {
+    "A0001": {
+      "nodes": 256,
+      "edges": 233,
+      "endpoint": 155,
+      "junction": 101,
+      "overlap_nodes": 33,
+      "by_color": {
+        "black": 158,
+        "blue": 61,
+        "red": 28,
+        "green": 9
+      },
+      "max_component_area": 30241,
+      "invalid_background_component_area_count": 0
+    },
+    "A0006": {
+      "nodes": 273,
+      "edges": 250,
+      "endpoint": 166,
+      "junction": 107,
+      "overlap_nodes": 34,
+      "by_color": {
+        "black": 166,
+        "blue": 68,
+        "red": 34,
+        "green": 5
+      },
+      "max_component_area": 34371,
+      "invalid_background_component_area_count": 0
+    },
+    "A0009": {
+      "nodes": 240,
+      "edges": 229,
+      "endpoint": 139,
+      "junction": 101,
+      "overlap_nodes": 36,
+      "by_color": {
+        "black": 158,
+        "blue": 57,
+        "red": 20,
+        "green": 5
+      },
+      "max_component_area": 32758,
+      "invalid_background_component_area_count": 0
+    }
+  },
+  "pairs": {
+    "A0001_to_A0006": {
+      "candidates": 216,
+      "accepted_total": 65,
+      "accepted_semantic_manual": 9,
+      "pending": 124,
+      "rejected_auto": 27,
+      "manual_landmarks": 28,
+      "manual_node_links": 9
+    },
+    "A0006_to_A0009": {
+      "candidates": 163,
+      "accepted_total": 18,
+      "accepted_semantic_manual": 15,
+      "pending": 115,
+      "rejected_auto": 30,
+      "manual_landmarks": 33,
+      "manual_node_links": 15
+    }
+  },
+  "visibility_events": {
+    "needs_review": 871,
+    "resolved_by_semantic_link": 37,
+    "accepted_auto_consensus": 4
+  },
+  "edge_visibility": {
+    "visible": 23,
+    "partially_occluded_by_hair": 1
+  }
+}

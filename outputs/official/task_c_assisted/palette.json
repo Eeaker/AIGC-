@@ -1,0 +1,122 @@
+{
+  "hood_base": {
+    "hex": "#2C2219",
+    "setting_pixel_count": 1019080
+  },
+  "skin_base": {
+    "hex": "#7C5A34",
+    "setting_pixel_count": 501502
+  },
+  "deep_shadow": {
+    "hex": "#110F0A",
+    "setting_pixel_count": 58740
+  },
+  "coat_dark": {
+    "hex": "#15100D",
+    "setting_pixel_count": 91089
+  },
+  "hair_shadow": {
+    "hex": "#170807",
+    "setting_pixel_count": 5073
+  },
+  "hair_base": {
+    "hex": "#1C1914",
+    "setting_pixel_count": 46481
+  },
+  "coat_light": {
+    "hex": "#3E2C22",
+    "setting_pixel_count": 138401
+  },
+  "coat_dark_2": {
+    "hex": "#15100E",
+    "setting_pixel_count": 6710
+  },
+  "inner_cloth": {
+    "hex": "#24180F",
+    "setting_pixel_count": 49158
+  },
+  "line": {
+    "hex": "#1E1009",
+    "setting_pixel_count": 179327
+  },
+  "skin_shadow": {
+    "hex": "#3E2718",
+    "setting_pixel_count": 163223
+  },
+  "eye_dark": {
+    "hex": "#3E321F",
+    "setting_pixel_count": 19959
+  },
+  "hair_highlight": {
+    "hex": "#3E2214",
+    "setting_pixel_count": 18907
+  },
+  "deep_red": {
+    "hex": "#1B0E08",
+    "setting_pixel_count": 24818
+  },
+  "eye_brown_dark": {
+    "hex": "#311C0B",
+    "setting_pixel_count": 8822
+  },
+  "eye_brown_mid": {
+    "hex": "#3F2B14",
+    "setting_pixel_count": 5947
+  },
+  "eye_near_black": {
+    "hex": "#0C0A07",
+    "setting_pixel_count": 1116
+  },
+  "eye_deep_red": {
+    "hex": "#130A03",
+    "setting_pixel_count": 8596
+  },
+  "eye_brown_deep": {
+    "hex": "#221509",
+    "setting_pixel_count": 1147
+  },
+  "eye_brown_light": {
+    "hex": "#4D321B",
+    "setting_pixel_count": 1147
+  },
+  "eye_brown_highlight": {
+    "hex": "#4D3A21",
+    "setting_pixel_count": 1147
+  },
+  "eye_olive_light": {
+    "hex": "#423721",
+    "setting_pixel_count": 584
+  },
+  "eye_red_mid": {
+    "hex": "#180903",
+    "setting_pixel_count": 1224
+  },
+  "eye_line_brown": {
+    "hex": "#321F12",
+    "setting_pixel_count": 1225
+  },
+  "eye_brown_warm": {
+    "hex": "#331C10",
+    "setting_pixel_count": 1718
+  },
+  "eye_warm_shadow": {
+    "hex": "#29160D",
+    "setting_pixel_count": 1350
+  },
+  "eye_near_black_warm": {
+    "hex": "#120F0A",
+    "setting_pixel_count": 1505
+  },
+  "hair_red_shadow": {
+    "hex": "#110401",
+    "setting_pixel_count": 1337
+  },
+  "hair_warm_shadow": {
+    "hex": "#2B170E",
+    "setting_pixel_count": 1036
+  },
+  "secondary_line_fill": {
+    "hex": "#2A231A",
+    "setting_pixel_count": 81
+  }
+}

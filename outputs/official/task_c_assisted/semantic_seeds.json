@@ -1,0 +1,1073 @@
+[
+  {
+    "frame": 1,
+    "x": 897,
+    "y": 1236,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 1456,
+    "y": 1286,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 1083,
+    "y": 995,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 922,
+    "y": 1107,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 900,
+    "y": 1383,
+    "semantic": "hair_shadow",
+    "hex": "#170807"
+  },
+  {
+    "frame": 1,
+    "x": 1399,
+    "y": 1338,
+    "semantic": "hair_shadow",
+    "hex": "#170807"
+  },
+  {
+    "frame": 1,
+    "x": 990,
+    "y": 1294,
+    "semantic": "hair_shadow",
+    "hex": "#170807"
+  },
+  {
+    "frame": 1,
+    "x": 688,
+    "y": 1414,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 1,
+    "x": 1581,
+    "y": 1373,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 1,
+    "x": 1084,
+    "y": 1506,
+    "semantic": "inner_cloth",
+    "hex": "#24180F"
+  },
+  {
+    "frame": 1,
+    "x": 1264,
+    "y": 1504,
+    "semantic": "inner_cloth",
+    "hex": "#24180F"
+  },
+  {
+    "frame": 1,
+    "x": 1178,
+    "y": 1377,
+    "semantic": "inner_cloth",
+    "hex": "#24180F"
+  },
+  {
+    "frame": 1,
+    "x": 1171,
+    "y": 1478,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 1313,
+    "y": 1560,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 1016,
+    "y": 1477,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 643,
+    "y": 1569,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 1,
+    "x": 1737,
+    "y": 1611,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 1,
+    "x": 1193,
+    "y": 1017,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 741,
+    "y": 1319,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 1,
+    "x": 903,
+    "y": 1522,
+    "semantic": "coat_dark_2",
+    "hex": "#15100E"
+  },
+  {
+    "frame": 1,
+    "x": 812,
+    "y": 1595,
+    "semantic": "coat_light",
+    "hex": "#3E2C22"
+  },
+  {
+    "frame": 1,
+    "x": 1740,
+    "y": 1540,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 1,
+    "x": 1673,
+    "y": 1575,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 1,
+    "x": 1044,
+    "y": 1601,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 1144,
+    "y": 647,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 1,
+    "x": 1725,
+    "y": 930,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 1,
+    "x": 578,
+    "y": 1298,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 1,
+    "x": 716,
+    "y": 1511,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 1,
+    "x": 772,
+    "y": 1227,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 1492,
+    "y": 1287,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 813,
+    "y": 1214,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 1,
+    "x": 1042,
+    "y": 1057,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1137,
+    "y": 1045,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1140,
+    "y": 1326,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1335,
+    "y": 1115,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1251,
+    "y": 1323,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 1034,
+    "y": 1026,
+    "semantic": "eye_dark",
+    "hex": "#3E321F"
+  },
+  {
+    "frame": 1,
+    "x": 1152,
+    "y": 1365,
+    "semantic": "eye_near_black",
+    "hex": "#0C0A07"
+  },
+  {
+    "frame": 1,
+    "x": 1355,
+    "y": 1581,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1170,
+    "y": 1596,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 1,
+    "x": 1555,
+    "y": 1290,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 1,
+    "x": 1042,
+    "y": 1002,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 1,
+    "x": 1023,
+    "y": 1000,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 1,
+    "x": 1029,
+    "y": 983,
+    "semantic": "eye_line_brown",
+    "hex": "#321F12"
+  },
+  {
+    "frame": 1,
+    "x": 984,
+    "y": 1027,
+    "semantic": "eye_brown_highlight",
+    "hex": "#4D3A21"
+  },
+  {
+    "frame": 1,
+    "x": 974,
+    "y": 1054,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 1,
+    "x": 1049,
+    "y": 972,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 1,
+    "x": 1005,
+    "y": 988,
+    "semantic": "eye_brown_deep",
+    "hex": "#221509"
+  },
+  {
+    "frame": 1,
+    "x": 998,
+    "y": 990,
+    "semantic": "eye_brown_light",
+    "hex": "#4D321B"
+  },
+  {
+    "frame": 1,
+    "x": 1004,
+    "y": 998,
+    "semantic": "eye_deep_red",
+    "hex": "#130A03"
+  },
+  {
+    "frame": 1,
+    "x": 976,
+    "y": 1040,
+    "semantic": "eye_brown_mid",
+    "hex": "#3F2B14"
+  },
+  {
+    "frame": 1,
+    "x": 928,
+    "y": 1070,
+    "semantic": "hair_highlight",
+    "hex": "#3E2214"
+  },
+  {
+    "frame": 1,
+    "x": 937,
+    "y": 1082,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 953,
+    "y": 838,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 5,
+    "x": 607,
+    "y": 980,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 5,
+    "x": 1769,
+    "y": 1291,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 5,
+    "x": 756,
+    "y": 1179,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 5,
+    "x": 787,
+    "y": 1116,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 5,
+    "x": 1516,
+    "y": 1200,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 5,
+    "x": 1564,
+    "y": 1242,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 5,
+    "x": 703,
+    "y": 1132,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 5,
+    "x": 812,
+    "y": 1201,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 5,
+    "x": 1527,
+    "y": 1224,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 5,
+    "x": 559,
+    "y": 1235,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 5,
+    "x": 732,
+    "y": 1516,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 5,
+    "x": 1031,
+    "y": 1021,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 1130,
+    "y": 1305,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 1140,
+    "y": 1023,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 1341,
+    "y": 1071,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 1245,
+    "y": 1307,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 5,
+    "x": 978,
+    "y": 973,
+    "semantic": "eye_dark",
+    "hex": "#3E321F"
+  },
+  {
+    "frame": 5,
+    "x": 1021,
+    "y": 936,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 5,
+    "x": 953,
+    "y": 1006,
+    "semantic": "hair_highlight",
+    "hex": "#3E2214"
+  },
+  {
+    "frame": 5,
+    "x": 983,
+    "y": 966,
+    "semantic": "eye_brown_dark",
+    "hex": "#311C0B"
+  },
+  {
+    "frame": 5,
+    "x": 986,
+    "y": 977,
+    "semantic": "eye_brown_mid",
+    "hex": "#3F2B14"
+  },
+  {
+    "frame": 5,
+    "x": 983,
+    "y": 926,
+    "semantic": "eye_brown_deep",
+    "hex": "#221509"
+  },
+  {
+    "frame": 5,
+    "x": 946,
+    "y": 920,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 5,
+    "x": 965,
+    "y": 936,
+    "semantic": "eye_deep_red",
+    "hex": "#130A03"
+  },
+  {
+    "frame": 5,
+    "x": 988,
+    "y": 934,
+    "semantic": "eye_brown_light",
+    "hex": "#4D321B"
+  },
+  {
+    "frame": 5,
+    "x": 1002,
+    "y": 943,
+    "semantic": "eye_brown_light",
+    "hex": "#4D321B"
+  },
+  {
+    "frame": 5,
+    "x": 914,
+    "y": 946,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 5,
+    "x": 990,
+    "y": 953,
+    "semantic": "eye_red_mid",
+    "hex": "#180903"
+  },
+  {
+    "frame": 5,
+    "x": 1028,
+    "y": 954,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 5,
+    "x": 961,
+    "y": 973,
+    "semantic": "eye_olive_light",
+    "hex": "#423721"
+  },
+  {
+    "frame": 5,
+    "x": 989,
+    "y": 988,
+    "semantic": "eye_brown_highlight",
+    "hex": "#4D3A21"
+  },
+  {
+    "frame": 5,
+    "x": 958,
+    "y": 903,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 966,
+    "y": 904,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 5,
+    "x": 1045,
+    "y": 925,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 5,
+    "x": 1057,
+    "y": 946,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 7,
+    "x": 758,
+    "y": 843,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 7,
+    "x": 608,
+    "y": 986,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 7,
+    "x": 811,
+    "y": 1230,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 7,
+    "x": 717,
+    "y": 955,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 7,
+    "x": 1507,
+    "y": 1271,
+    "semantic": "coat_dark_2",
+    "hex": "#15100E"
+  },
+  {
+    "frame": 7,
+    "x": 872,
+    "y": 907,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 7,
+    "x": 574,
+    "y": 1110,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 7,
+    "x": 858,
+    "y": 890,
+    "semantic": "eye_near_black_warm",
+    "hex": "#120F0A"
+  },
+  {
+    "frame": 7,
+    "x": 1084,
+    "y": 1198,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 7,
+    "x": 1400,
+    "y": 1286,
+    "semantic": "hair_shadow",
+    "hex": "#170807"
+  },
+  {
+    "frame": 7,
+    "x": 887,
+    "y": 1197,
+    "semantic": "secondary_line_fill",
+    "hex": "#2A231A"
+  },
+  {
+    "frame": 7,
+    "x": 990,
+    "y": 981,
+    "semantic": "eye_warm_shadow",
+    "hex": "#29160D"
+  },
+  {
+    "frame": 7,
+    "x": 939,
+    "y": 925,
+    "semantic": "eye_brown_light",
+    "hex": "#4D321B"
+  },
+  {
+    "frame": 7,
+    "x": 992,
+    "y": 974,
+    "semantic": "eye_brown_warm",
+    "hex": "#331C10"
+  },
+  {
+    "frame": 7,
+    "x": 908,
+    "y": 952,
+    "semantic": "eye_olive_light",
+    "hex": "#423721"
+  },
+  {
+    "frame": 7,
+    "x": 960,
+    "y": 946,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 7,
+    "x": 930,
+    "y": 963,
+    "semantic": "eye_brown_highlight",
+    "hex": "#4D3A21"
+  },
+  {
+    "frame": 7,
+    "x": 868,
+    "y": 878,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 7,
+    "x": 1809,
+    "y": 1181,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 7,
+    "x": 1097,
+    "y": 1201,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 971,
+    "y": 936,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 872,
+    "y": 1504,
+    "semantic": "coat_dark_2",
+    "hex": "#15100E"
+  },
+  {
+    "frame": 9,
+    "x": 1379,
+    "y": 1503,
+    "semantic": "coat_dark_2",
+    "hex": "#15100E"
+  },
+  {
+    "frame": 9,
+    "x": 766,
+    "y": 1576,
+    "semantic": "coat_light",
+    "hex": "#3E2C22"
+  },
+  {
+    "frame": 9,
+    "x": 1457,
+    "y": 1587,
+    "semantic": "coat_light",
+    "hex": "#3E2C22"
+  },
+  {
+    "frame": 9,
+    "x": 1636,
+    "y": 1436,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 9,
+    "x": 1592,
+    "y": 1542,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 9,
+    "x": 1681,
+    "y": 1582,
+    "semantic": "hood_base",
+    "hex": "#2C2219"
+  },
+  {
+    "frame": 9,
+    "x": 810,
+    "y": 552,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 9,
+    "x": 1698,
+    "y": 698,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 9,
+    "x": 750,
+    "y": 842,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 797,
+    "y": 920,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 1177,
+    "y": 1146,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 1321,
+    "y": 1235,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 1421,
+    "y": 1278,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 1507,
+    "y": 1351,
+    "semantic": "coat_dark",
+    "hex": "#15100D"
+  },
+  {
+    "frame": 9,
+    "x": 845,
+    "y": 829,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 970,
+    "y": 1021,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 1119,
+    "y": 1076,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 1148,
+    "y": 1301,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 1228,
+    "y": 1306,
+    "semantic": "skin_base",
+    "hex": "#7C5A34"
+  },
+  {
+    "frame": 9,
+    "x": 876,
+    "y": 1234,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 786,
+    "y": 1407,
+    "semantic": "deep_shadow",
+    "hex": "#110F0A"
+  },
+  {
+    "frame": 9,
+    "x": 1199,
+    "y": 1156,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 1199,
+    "y": 1225,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 941,
+    "y": 1565,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 1496,
+    "y": 1287,
+    "semantic": "coat_dark_2",
+    "hex": "#15100E"
+  },
+  {
+    "frame": 9,
+    "x": 897,
+    "y": 963,
+    "semantic": "eye_dark",
+    "hex": "#3E321F"
+  },
+  {
+    "frame": 9,
+    "x": 913,
+    "y": 823,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 1067,
+    "y": 994,
+    "semantic": "hair_base",
+    "hex": "#1C1914"
+  },
+  {
+    "frame": 9,
+    "x": 836,
+    "y": 890,
+    "semantic": "eye_dark",
+    "hex": "#3E321F"
+  },
+  {
+    "frame": 9,
+    "x": 838,
+    "y": 764,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 837,
+    "y": 865,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 9,
+    "x": 822,
+    "y": 860,
+    "semantic": "skin_shadow",
+    "hex": "#3E2718"
+  },
+  {
+    "frame": 9,
+    "x": 841,
+    "y": 855,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 9,
+    "x": 812,
+    "y": 871,
+    "semantic": "eye_near_black_warm",
+    "hex": "#120F0A"
+  },
+  {
+    "frame": 9,
+    "x": 839,
+    "y": 876,
+    "semantic": "eye_dark",
+    "hex": "#3E321F"
+  },
+  {
+    "frame": 9,
+    "x": 832,
+    "y": 874,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 9,
+    "x": 846,
+    "y": 879,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  },
+  {
+    "frame": 9,
+    "x": 900,
+    "y": 920,
+    "semantic": "eye_near_black_warm",
+    "hex": "#120F0A"
+  },
+  {
+    "frame": 9,
+    "x": 875,
+    "y": 913,
+    "semantic": "eye_brown_light",
+    "hex": "#4D321B"
+  },
+  {
+    "frame": 9,
+    "x": 868,
+    "y": 918,
+    "semantic": "eye_red_mid",
+    "hex": "#180903"
+  },
+  {
+    "frame": 9,
+    "x": 880,
+    "y": 924,
+    "semantic": "eye_deep_red",
+    "hex": "#130A03"
+  },
+  {
+    "frame": 9,
+    "x": 891,
+    "y": 932,
+    "semantic": "deep_red",
+    "hex": "#1B0E08"
+  }
+]

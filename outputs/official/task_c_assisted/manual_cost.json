@@ -1,0 +1,9 @@
+{
+  "profile": "assisted",
+  "semantic_seed_count": 153,
+  "intermediate_reference_feedback_used": false,
+  "annotation_time_minutes": null,
+  "annotation_time_note": "Historical labeling time was not instrumented; null is intentional rather than an estimate. Labels use line art and setting references only.",
+  "unit": "paint_bucket_region_label",
+  "line_pixels_changed_required": 0
+}

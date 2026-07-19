@@ -1,0 +1,20 @@
+{
+  "device": "cuda",
+  "frames": {
+    "A0001": {
+      "strict_sha256": "bd6793c8808a049fe6d5e4e0071c60149681272ec33d1dc5f80176522f60de1f",
+      "production_sha256": "6201151065979d1b139b01254265d89a28df6f2517ad8937dedf55d9167cf036",
+      "postprocess": "fusion_base"
+    },
+    "A0006": {
+      "strict_sha256": "5f425d1cdac6b0d6407841421757d30d3d4efe3ea9f12d6b105d388257350807",
+      "production_sha256": "55d7727554a27dd627db170907cc7db3774e51a23b23153af6a4169681ca36bd",
+      "postprocess": "fusion_base"
+    },
+    "A0009": {
+      "strict_sha256": "b0e49ea9f87ee1bf230af6c8455d7696dbedd3f09a348e43a955223995c35812",
+      "production_sha256": "9770eaf50f3c99c811e9a5ccf1fccc4b087ed58fe5a55ef3f85e9af1fc566959",
+      "postprocess": "prune1_bridge_g5_a35"
+    }
+  }
+}

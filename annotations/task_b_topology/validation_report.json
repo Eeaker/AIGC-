@@ -1,0 +1,45 @@
+{
+  "valid": true,
+  "errors": [],
+  "warnings": [],
+  "statistics": {
+    "A0001": {
+      "nodes": 256,
+      "edges": 233,
+      "overlap_nodes": 33
+    },
+    "A0006": {
+      "nodes": 273,
+      "edges": 250,
+      "overlap_nodes": 34
+    },
+    "A0009": {
+      "nodes": 240,
+      "edges": 229,
+      "overlap_nodes": 36
+    },
+    "A0001_to_A0006": {
+      "candidates": 216,
+      "accepted": 65,
+      "pending": 124,
+      "rejected": 27
+    },
+    "A0006_to_A0009": {
+      "candidates": 163,
+      "accepted": 18,
+      "pending": 115,
+      "rejected": 30
+    },
+    "review_decisions": {
+      "match": 369,
+      "events": 912,
+      "edges": 24
+    },
+    "edge_visibility": {
+      "visible": 23,
+      "partially_occluded_by_hair": 1
+    }
+  },
+  "human_ground_truth_claimed": false,
+  "held_out_intermediate_frames_read": false
+}

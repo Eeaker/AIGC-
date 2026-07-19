@@ -1,0 +1,678 @@
+[
+  {
+    "hex": "#C0C0C0",
+    "setting_pixel_count": 3358490
+  },
+  {
+    "hex": "#888888",
+    "setting_pixel_count": 1171324
+  },
+  {
+    "hex": "#2C2219",
+    "setting_pixel_count": 1019080
+  },
+  {
+    "hex": "#7C5A34",
+    "setting_pixel_count": 501502
+  },
+  {
+    "hex": "#4A412D",
+    "setting_pixel_count": 447631
+  },
+  {
+    "hex": "#1E1009",
+    "setting_pixel_count": 179327
+  },
+  {
+    "hex": "#3E2718",
+    "setting_pixel_count": 163223
+  },
+  {
+    "hex": "#271D11",
+    "setting_pixel_count": 161542
+  },
+  {
+    "hex": "#3E2C22",
+    "setting_pixel_count": 138401
+  },
+  {
+    "hex": "#7F643E",
+    "setting_pixel_count": 96317
+  },
+  {
+    "hex": "#2A8331",
+    "setting_pixel_count": 91693
+  },
+  {
+    "hex": "#15100D",
+    "setting_pixel_count": 91089
+  },
+  {
+    "hex": "#3E3125",
+    "setting_pixel_count": 77631
+  },
+  {
+    "hex": "#FF947A",
+    "setting_pixel_count": 76599
+  },
+  {
+    "hex": "#B378FF",
+    "setting_pixel_count": 66189
+  },
+  {
+    "hex": "#110F0A",
+    "setting_pixel_count": 58740
+  },
+  {
+    "hex": "#24180F",
+    "setting_pixel_count": 49158
+  },
+  {
+    "hex": "#1C1914",
+    "setting_pixel_count": 46481
+  },
+  {
+    "hex": "#00FFFF",
+    "setting_pixel_count": 38419
+  },
+  {
+    "hex": "#352318",
+    "setting_pixel_count": 32902
+  },
+  {
+    "hex": "#7B623C",
+    "setting_pixel_count": 27883
+  },
+  {
+    "hex": "#000000",
+    "setting_pixel_count": 27475
+  },
+  {
+    "hex": "#1B0E08",
+    "setting_pixel_count": 24818
+  },
+  {
+    "hex": "#2A271C",
+    "setting_pixel_count": 24348
+  },
+  {
+    "hex": "#12110E",
+    "setting_pixel_count": 22969
+  },
+  {
+    "hex": "#795030",
+    "setting_pixel_count": 21313
+  },
+  {
+    "hex": "#3E321F",
+    "setting_pixel_count": 19959
+  },
+  {
+    "hex": "#3E2214",
+    "setting_pixel_count": 18907
+  },
+  {
+    "hex": "#341E19",
+    "setting_pixel_count": 18398
+  },
+  {
+    "hex": "#FF8AF7",
+    "setting_pixel_count": 16939
+  },
+  {
+    "hex": "#D60021",
+    "setting_pixel_count": 14764
+  },
+  {
+    "hex": "#9EFECD",
+    "setting_pixel_count": 12689
+  },
+  {
+    "hex": "#261306",
+    "setting_pixel_count": 12008
+  },
+  {
+    "hex": "#0088A3",
+    "setting_pixel_count": 11296
+  },
+  {
+    "hex": "#19140F",
+    "setting_pixel_count": 10641
+  },
+  {
+    "hex": "#5C3616",
+    "setting_pixel_count": 10309
+  },
+  {
+    "hex": "#674A1D",
+    "setting_pixel_count": 9472
+  },
+  {
+    "hex": "#3B1A13",
+    "setting_pixel_count": 9038
+  },
+  {
+    "hex": "#311C0B",
+    "setting_pixel_count": 8822
+  },
+  {
+    "hex": "#130A03",
+    "setting_pixel_count": 8596
+  },
+  {
+    "hex": "#CCFF93",
+    "setting_pixel_count": 7766
+  },
+  {
+    "hex": "#4864FF",
+    "setting_pixel_count": 7582
+  },
+  {
+    "hex": "#3D1A15",
+    "setting_pixel_count": 7266
+  },
+  {
+    "hex": "#D5B9FF",
+    "setting_pixel_count": 6826
+  },
+  {
+    "hex": "#15100E",
+    "setting_pixel_count": 6710
+  },
+  {
+    "hex": "#82ADFF",
+    "setting_pixel_count": 6691
+  },
+  {
+    "hex": "#764F27",
+    "setting_pixel_count": 6508
+  },
+  {
+    "hex": "#0F0E08",
+    "setting_pixel_count": 6226
+  },
+  {
+    "hex": "#1B140B",
+    "setting_pixel_count": 6134
+  },
+  {
+    "hex": "#3F2B14",
+    "setting_pixel_count": 5947
+  },
+  {
+    "hex": "#FF9041",
+    "setting_pixel_count": 5318
+  },
+  {
+    "hex": "#170807",
+    "setting_pixel_count": 5073
+  },
+  {
+    "hex": "#120D08",
+    "setting_pixel_count": 5068
+  },
+  {
+    "hex": "#3A46C4",
+    "setting_pixel_count": 4946
+  },
+  {
+    "hex": "#0095F6",
+    "setting_pixel_count": 4946
+  },
+  {
+    "hex": "#382D1E",
+    "setting_pixel_count": 4736
+  },
+  {
+    "hex": "#FF00C0",
+    "setting_pixel_count": 4526
+  },
+  {
+    "hex": "#7B5532",
+    "setting_pixel_count": 4155
+  },
+  {
+    "hex": "#99B100",
+    "setting_pixel_count": 3585
+  },
+  {
+    "hex": "#83C901",
+    "setting_pixel_count": 3585
+  },
+  {
+    "hex": "#7B0092",
+    "setting_pixel_count": 3572
+  },
+  {
+    "hex": "#7E6FCE",
+    "setting_pixel_count": 3371
+  },
+  {
+    "hex": "#AD99FF",
+    "setting_pixel_count": 3371
+  },
+  {
+    "hex": "#2C1E0C",
+    "setting_pixel_count": 3218
+  },
+  {
+    "hex": "#261B0F",
+    "setting_pixel_count": 3180
+  },
+  {
+    "hex": "#62441B",
+    "setting_pixel_count": 3134
+  },
+  {
+    "hex": "#13110D",
+    "setting_pixel_count": 2738
+  },
+  {
+    "hex": "#CC2C38",
+    "setting_pixel_count": 2612
+  },
+  {
+    "hex": "#7D633E",
+    "setting_pixel_count": 2611
+  },
+  {
+    "hex": "#341911",
+    "setting_pixel_count": 2573
+  },
+  {
+    "hex": "#292118",
+    "setting_pixel_count": 2517
+  },
+  {
+    "hex": "#3A2315",
+    "setting_pixel_count": 2454
+  },
+  {
+    "hex": "#2D2518",
+    "setting_pixel_count": 2300
+  },
+  {
+    "hex": "#2F1C11",
+    "setting_pixel_count": 2223
+  },
+  {
+    "hex": "#523228",
+    "setting_pixel_count": 1883
+  },
+  {
+    "hex": "#170909",
+    "setting_pixel_count": 1872
+  },
+  {
+    "hex": "#FF0000",
+    "setting_pixel_count": 1765
+  },
+  {
+    "hex": "#635939",
+    "setting_pixel_count": 1757
+  },
+  {
+    "hex": "#331C10",
+    "setting_pixel_count": 1718
+  },
+  {
+    "hex": "#693C24",
+    "setting_pixel_count": 1663
+  },
+  {
+    "hex": "#392A1A",
+    "setting_pixel_count": 1531
+  },
+  {
+    "hex": "#120F0A",
+    "setting_pixel_count": 1505
+  },
+  {
+    "hex": "#7F5E39",
+    "setting_pixel_count": 1503
+  },
+  {
+    "hex": "#7A552E",
+    "setting_pixel_count": 1427
+  },
+  {
+    "hex": "#412B12",
+    "setting_pixel_count": 1394
+  },
+  {
+    "hex": "#29160D",
+    "setting_pixel_count": 1350
+  },
+  {
+    "hex": "#110401",
+    "setting_pixel_count": 1337
+  },
+  {
+    "hex": "#523721",
+    "setting_pixel_count": 1336
+  },
+  {
+    "hex": "#4D2D1C",
+    "setting_pixel_count": 1323
+  },
+  {
+    "hex": "#301D10",
+    "setting_pixel_count": 1290
+  },
+  {
+    "hex": "#80603A",
+    "setting_pixel_count": 1231
+  },
+  {
+    "hex": "#321F12",
+    "setting_pixel_count": 1225
+  },
+  {
+    "hex": "#180903",
+    "setting_pixel_count": 1224
+  },
+  {
+    "hex": "#806640",
+    "setting_pixel_count": 1200
+  },
+  {
+    "hex": "#2E190F",
+    "setting_pixel_count": 1188
+  },
+  {
+    "hex": "#110906",
+    "setting_pixel_count": 1188
+  },
+  {
+    "hex": "#2B130B",
+    "setting_pixel_count": 1188
+  },
+  {
+    "hex": "#110C09",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#1E1408",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#100C08",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#120806",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0F0406",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0A0805",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#090906",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0B0906",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0C0907",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0B0B07",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#2D1D11",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#352214",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#2F2718",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#292018",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#5C1419",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0F0C0A",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#130F0B",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#1F1408",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0B0A09",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#22130B",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#0F0D0A",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#110305",
+    "setting_pixel_count": 1184
+  },
+  {
+    "hex": "#422E1C",
+    "setting_pixel_count": 1161
+  },
+  {
+    "hex": "#663922",
+    "setting_pixel_count": 1152
+  },
+  {
+    "hex": "#663821",
+    "setting_pixel_count": 1152
+  },
+  {
+    "hex": "#29140C",
+    "setting_pixel_count": 1152
+  },
+  {
+    "hex": "#29130B",
+    "setting_pixel_count": 1152
+  },
+  {
+    "hex": "#4D321B",
+    "setting_pixel_count": 1147
+  },
+  {
+    "hex": "#33261C",
+    "setting_pixel_count": 1147
+  },
+  {
+    "hex": "#221509",
+    "setting_pixel_count": 1147
+  },
+  {
+    "hex": "#4D3A21",
+    "setting_pixel_count": 1147
+  },
+  {
+    "hex": "#0C0A07",
+    "setting_pixel_count": 1116
+  },
+  {
+    "hex": "#160F0A",
+    "setting_pixel_count": 1081
+  },
+  {
+    "hex": "#180C08",
+    "setting_pixel_count": 1055
+  },
+  {
+    "hex": "#7C1B22",
+    "setting_pixel_count": 1050
+  },
+  {
+    "hex": "#2B170E",
+    "setting_pixel_count": 1036
+  },
+  {
+    "hex": "#0F0B07",
+    "setting_pixel_count": 1036
+  },
+  {
+    "hex": "#281B0B",
+    "setting_pixel_count": 1036
+  },
+  {
+    "hex": "#3B301D",
+    "setting_pixel_count": 1036
+  },
+  {
+    "hex": "#170F0C",
+    "setting_pixel_count": 1036
+  },
+  {
+    "hex": "#341B0F",
+    "setting_pixel_count": 1008
+  },
+  {
+    "hex": "#150B07",
+    "setting_pixel_count": 1008
+  },
+  {
+    "hex": "#371A0F",
+    "setting_pixel_count": 1008
+  },
+  {
+    "hex": "#0B0A07",
+    "setting_pixel_count": 984
+  },
+  {
+    "hex": "#7A5B2D",
+    "setting_pixel_count": 978
+  },
+  {
+    "hex": "#7C663F",
+    "setting_pixel_count": 790
+  },
+  {
+    "hex": "#423721",
+    "setting_pixel_count": 584
+  },
+  {
+    "hex": "#7E5E37",
+    "setting_pixel_count": 490
+  },
+  {
+    "hex": "#51412D",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#80653F",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#7F5F39",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#4C2A1D",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#4B291D",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#72482B",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#745427",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#412E1D",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#493627",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#2D1F14",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#373121",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#352718",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#3D1F16",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#382D20",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#2A1E13",
+    "setting_pixel_count": 342
+  },
+  {
+    "hex": "#6C4228",
+    "setting_pixel_count": 289
+  },
+  {
+    "hex": "#3F321F",
+    "setting_pixel_count": 110
+  },
+  {
+    "hex": "#221A14",
+    "setting_pixel_count": 99
+  },
+  {
+    "hex": "#2A231A",
+    "setting_pixel_count": 81
+  },
+  {
+    "hex": "#533C1E",
+    "setting_pixel_count": 80
+  },
+  {
+    "hex": "#423623",
+    "setting_pixel_count": 80
+  },
+  {
+    "hex": "#442E1B",
+    "setting_pixel_count": 53
+  },
+  {
+    "hex": "#1D1810",
+    "setting_pixel_count": 51
+  },
+  {
+    "hex": "#130F0A",
+    "setting_pixel_count": 29
+  }
+]

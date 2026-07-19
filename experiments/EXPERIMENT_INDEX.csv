@@ -1,0 +1,17 @@
+task,experiment,data_boundary,selection,primary_result,caveat,artifact
+A,strict_four_color_formal,"rough input; LOFO fold excludes held-out reference",formal,"mean F1@2px=0.988608; color compliance=1.0","reference contains green, so green recall is intentionally zero",outputs/summary/official_metrics.json
+A,production_five_color,"rough input; green recovered from rough only",supplementary,"mean F1@2px=0.9913; green F1@2px about 0.998","not the literal four-color requirement",outputs/supplementary/task_a_production_5color
+B,formal_raster_flow,"A1/A6/A9 endpoints; A2-A5 cleanup supervision only",formal,"A7/A8 F1@2px=0.522442/0.583625","black hair topology reconnects poorly",outputs/official/task_b
+B,raft_miba,"A6/A9 endpoints; A7/A8 evaluation only",rejected,"A7/A8 F1@2px=0.200671/0.346084","large displacement mismatch",experiments/task_b/autodl/raft_miba_metrics.json
+B,learned_cleanup,"trained on A2-A5; A7/A8 evaluation only",rejected,"A7/A8 F1@2px=0.543570/0.592972","line ratio=2.188986/2.329415",experiments/task_b/autodl/cleanup_training_history.json
+B,topology_v2_global_tps,"A6/A9 plus 33 reviewed landmarks",rejected,"best endpoint-owner F1@2px=0.209457/0.239985","global warp overfits sparse/noisy correspondences",experiments/task_b/topology_visibility_v2/global_tps_metrics.json
+B,topology_v2_local_flow_fusion,"A6/A9 plus 33 reviewed landmarks",diagnostic,"mean F1@2px 0.523984 -> 0.524084","gain +0.00010 is not robust",experiments/task_b/topology_visibility_v2/flow_fusion_metrics.json
+B,KTK05_frozen_cross_shot,"parameters frozen before KTK05 evaluation",supplementary,"A-layer F1=0.925696/0.897837/0.920648","B layer contains tiny character ROI; report both global and ROI",outputs/supplementary/ktk05/task_b_metrics.json
+C,automatic,"line geometry + setting palette; 0 labels",baseline,"area precision=0.999690; correct coverage=0.592474","high precision, low coverage",experiments/task_c/c_profile_metrics.json
+C,assisted_sparse,"153 setting/line-derived labels; no answer repair",ablation,"area precision=0.995586; correct coverage=0.956323","region coverage=0.734366",experiments/task_c/c_profile_metrics.json
+C,assisted,"153 clean key-view labels from line art/setting only",formal,"area precision=0.995586; correct coverage=0.956323","human labeling time was not recorded",outputs/official/task_c_assisted/manual_cost.json
+C,dense_assisted,"225 labels including post-comparison residual regions",diagnostic-only,"area precision=0.993288; correct coverage=0.993043","not eligible as blind formal result",experiments/task_c/c_profile_metrics.json
+B,part_graph_warp,"33 endpoint landmarks grouped into three semantic parts",rejected,"A7/A8 F1@2px=0.165/0.230","direct endpoint warp misses 3D topology change",experiments/task_b/part_graph_warp/metrics.json
+B,assisted_local_correction,"balanced Assisted-10 and Assisted-30 budgets",rejected,"best mean F1@2px 0.553033->0.553903","below preregistered +0.002 multi-metric threshold",experiments/task_b/assisted_local_correction/metrics.json
+A,checkpoint_rebuild,"nine packaged LOFO checkpoints + deterministic fusion",verified,"six output SHA-256 values exactly match formal/supplementary files","RTX 4090 run about 34 seconds",experiments/task_a/checkpoint_rebuild_manifest.json
+C,oracle_reviewed,"reference-answer error audit",diagnostic_only,"correct coverage up to about 0.999394","not a valid formal inference boundary; images excluded",experiments/task_c/c_profile_metrics.json

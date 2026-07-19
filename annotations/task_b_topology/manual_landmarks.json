@@ -1,0 +1,1165 @@
+{
+  "A0001_to_A0006": [
+    {
+      "landmark_id": "A0001_to_A0006_lm000",
+      "pair": "A0001_to_A0006",
+      "name": "hood_apex",
+      "line_color": "black",
+      "source_xy": [
+        1186.0,
+        182.0
+      ],
+      "target_xy": [
+        1175.0,
+        140.0
+      ],
+      "source_snap_distance_px": 0.402,
+      "target_snap_distance_px": 0.478,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm001",
+      "pair": "A0001_to_A0006",
+      "name": "hood_left_upper",
+      "line_color": "black",
+      "source_xy": [
+        747.0,
+        460.0
+      ],
+      "target_xy": [
+        732.0,
+        432.0
+      ],
+      "source_snap_distance_px": 4.099,
+      "target_snap_distance_px": 12.595,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm002",
+      "pair": "A0001_to_A0006",
+      "name": "hood_right_upper",
+      "line_color": "black",
+      "source_xy": [
+        1617.0,
+        463.0
+      ],
+      "target_xy": [
+        1616.0,
+        446.0
+      ],
+      "source_snap_distance_px": 0.218,
+      "target_snap_distance_px": 9.806,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm003",
+      "pair": "A0001_to_A0006",
+      "name": "center_seam_upper",
+      "line_color": "black",
+      "source_xy": [
+        1188.0,
+        583.0
+      ],
+      "target_xy": [
+        1184.0,
+        559.0
+      ],
+      "source_snap_distance_px": 10.21,
+      "target_snap_distance_px": 11.401,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm004",
+      "pair": "A0001_to_A0006",
+      "name": "center_seam_opening",
+      "line_color": "black",
+      "source_xy": [
+        1176.0,
+        921.0
+      ],
+      "target_xy": [
+        1167.0,
+        811.0
+      ],
+      "source_snap_distance_px": 1.839,
+      "target_snap_distance_px": 0.563,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm005",
+      "pair": "A0001_to_A0006",
+      "name": "hood_left_side",
+      "line_color": "black",
+      "source_xy": [
+        630.0,
+        927.0
+      ],
+      "target_xy": [
+        619.0,
+        902.0
+      ],
+      "source_snap_distance_px": 3.598,
+      "target_snap_distance_px": 2.436,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm006",
+      "pair": "A0001_to_A0006",
+      "name": "hood_left_tip",
+      "line_color": "black",
+      "source_xy": [
+        524.0,
+        1246.0
+      ],
+      "target_xy": [
+        513.0,
+        1186.0
+      ],
+      "source_snap_distance_px": 1.237,
+      "target_snap_distance_px": 1.804,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm007",
+      "pair": "A0001_to_A0006",
+      "name": "hood_right_side",
+      "line_color": "black",
+      "source_xy": [
+        1702.0,
+        800.0
+      ],
+      "target_xy": [
+        1696.0,
+        762.0
+      ],
+      "source_snap_distance_px": 1.883,
+      "target_snap_distance_px": 0.8,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm008",
+      "pair": "A0001_to_A0006",
+      "name": "hood_right_tip",
+      "line_color": "black",
+      "source_xy": [
+        1816.0,
+        1350.0
+      ],
+      "target_xy": [
+        1744.0,
+        1301.0
+      ],
+      "source_snap_distance_px": 53.523,
+      "target_snap_distance_px": 8.264,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm009",
+      "pair": "A0001_to_A0006",
+      "name": "opening_peak",
+      "line_color": "black",
+      "source_xy": [
+        1174.0,
+        926.0
+      ],
+      "target_xy": [
+        1128.0,
+        810.0
+      ],
+      "source_snap_distance_px": 1.411,
+      "target_snap_distance_px": 1.452,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm010",
+      "pair": "A0001_to_A0006",
+      "name": "opening_left_hair",
+      "line_color": "black",
+      "source_xy": [
+        956.0,
+        1026.0
+      ],
+      "target_xy": [
+        922.0,
+        914.0
+      ],
+      "source_snap_distance_px": 22.507,
+      "target_snap_distance_px": 20.354,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm011",
+      "pair": "A0001_to_A0006",
+      "name": "opening_right_hair",
+      "line_color": "black",
+      "source_xy": [
+        1270.0,
+        1012.0
+      ],
+      "target_xy": [
+        1249.0,
+        918.0
+      ],
+      "source_snap_distance_px": 12.621,
+      "target_snap_distance_px": 43.412,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm012",
+      "pair": "A0001_to_A0006",
+      "name": "eye_center",
+      "line_color": "green",
+      "source_xy": [
+        985.0,
+        1014.0
+      ],
+      "target_xy": [
+        985.0,
+        949.0
+      ],
+      "source_snap_distance_px": 23.654,
+      "target_snap_distance_px": 0.461,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm013",
+      "pair": "A0001_to_A0006",
+      "name": "eye_left_corner",
+      "line_color": "black",
+      "source_xy": [
+        949.0,
+        1035.0
+      ],
+      "target_xy": [
+        946.0,
+        952.0
+      ],
+      "source_snap_distance_px": 0.05,
+      "target_snap_distance_px": 2.207,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm014",
+      "pair": "A0001_to_A0006",
+      "name": "eye_right_corner",
+      "line_color": "black",
+      "source_xy": [
+        1016.0,
+        1033.0
+      ],
+      "target_xy": [
+        1037.0,
+        950.0
+      ],
+      "source_snap_distance_px": 9.602,
+      "target_snap_distance_px": 2.862,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm015",
+      "pair": "A0001_to_A0006",
+      "name": "nose_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1167.0,
+        1182.0
+      ],
+      "target_xy": [
+        1161.0,
+        1126.0
+      ],
+      "source_snap_distance_px": 4.932,
+      "target_snap_distance_px": 9.0,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm016",
+      "pair": "A0001_to_A0006",
+      "name": "mouth_center",
+      "line_color": "black",
+      "source_xy": [
+        1166.0,
+        1226.0
+      ],
+      "target_xy": [
+        1168.0,
+        1202.0
+      ],
+      "source_snap_distance_px": 7.467,
+      "target_snap_distance_px": 2.894,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm017",
+      "pair": "A0001_to_A0006",
+      "name": "chin",
+      "line_color": "black",
+      "source_xy": [
+        1171.0,
+        1336.0
+      ],
+      "target_xy": [
+        1172.0,
+        1312.0
+      ],
+      "source_snap_distance_px": 6.008,
+      "target_snap_distance_px": 6.819,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm018",
+      "pair": "A0001_to_A0006",
+      "name": "jaw_left",
+      "line_color": "black",
+      "source_xy": [
+        1004.0,
+        1243.0
+      ],
+      "target_xy": [
+        1002.0,
+        1216.0
+      ],
+      "source_snap_distance_px": 32.974,
+      "target_snap_distance_px": 35.478,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm019",
+      "pair": "A0001_to_A0006",
+      "name": "jaw_right",
+      "line_color": "black",
+      "source_xy": [
+        1333.0,
+        1247.0
+      ],
+      "target_xy": [
+        1344.0,
+        1216.0
+      ],
+      "source_snap_distance_px": 32.378,
+      "target_snap_distance_px": 34.37,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm020",
+      "pair": "A0001_to_A0006",
+      "name": "neck_left",
+      "line_color": "black",
+      "source_xy": [
+        1092.0,
+        1332.0
+      ],
+      "target_xy": [
+        1090.0,
+        1315.0
+      ],
+      "source_snap_distance_px": 11.204,
+      "target_snap_distance_px": 2.613,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm021",
+      "pair": "A0001_to_A0006",
+      "name": "neck_right",
+      "line_color": "black",
+      "source_xy": [
+        1264.0,
+        1337.0
+      ],
+      "target_xy": [
+        1264.0,
+        1314.0
+      ],
+      "source_snap_distance_px": 5.394,
+      "target_snap_distance_px": 0.791,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm022",
+      "pair": "A0001_to_A0006",
+      "name": "collar_left_inner",
+      "line_color": "black",
+      "source_xy": [
+        986.0,
+        1484.0
+      ],
+      "target_xy": [
+        982.0,
+        1472.0
+      ],
+      "source_snap_distance_px": 3.596,
+      "target_snap_distance_px": 0.801,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm023",
+      "pair": "A0001_to_A0006",
+      "name": "collar_right_inner",
+      "line_color": "black",
+      "source_xy": [
+        1360.0,
+        1482.0
+      ],
+      "target_xy": [
+        1356.0,
+        1472.0
+      ],
+      "source_snap_distance_px": 0.411,
+      "target_snap_distance_px": 1.201,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm024",
+      "pair": "A0001_to_A0006",
+      "name": "shoulder_left_blue",
+      "line_color": "blue",
+      "source_xy": [
+        741.0,
+        1522.0
+      ],
+      "target_xy": [
+        744.0,
+        1489.0
+      ],
+      "source_snap_distance_px": 10.891,
+      "target_snap_distance_px": 4.811,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm025",
+      "pair": "A0001_to_A0006",
+      "name": "shoulder_right_blue",
+      "line_color": "blue",
+      "source_xy": [
+        1530.0,
+        1478.0
+      ],
+      "target_xy": [
+        1516.0,
+        1460.0
+      ],
+      "source_snap_distance_px": 5.916,
+      "target_snap_distance_px": 21.609,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm026",
+      "pair": "A0001_to_A0006",
+      "name": "hood_mark_left_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1077.0,
+        668.0
+      ],
+      "target_xy": [
+        1074.0,
+        629.0
+      ],
+      "source_snap_distance_px": 0.701,
+      "target_snap_distance_px": 0.405,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0001_to_A0006_lm027",
+      "pair": "A0001_to_A0006",
+      "name": "hood_mark_right_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1453.0,
+        765.0
+      ],
+      "target_xy": [
+        1451.0,
+        728.0
+      ],
+      "source_snap_distance_px": 0.576,
+      "target_snap_distance_px": 2.406,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    }
+  ],
+  "A0006_to_A0009": [
+    {
+      "landmark_id": "A0006_to_A0009_lm000",
+      "pair": "A0006_to_A0009",
+      "name": "hood_apex",
+      "line_color": "black",
+      "source_xy": [
+        1175.0,
+        140.0
+      ],
+      "target_xy": [
+        1256.0,
+        164.0
+      ],
+      "source_snap_distance_px": 0.478,
+      "target_snap_distance_px": 0.256,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm001",
+      "pair": "A0006_to_A0009",
+      "name": "hood_left_upper",
+      "line_color": "black",
+      "source_xy": [
+        732.0,
+        432.0
+      ],
+      "target_xy": [
+        928.0,
+        293.0
+      ],
+      "source_snap_distance_px": 12.595,
+      "target_snap_distance_px": 11.799,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm002",
+      "pair": "A0006_to_A0009",
+      "name": "hood_right_upper",
+      "line_color": "black",
+      "source_xy": [
+        1616.0,
+        446.0
+      ],
+      "target_xy": [
+        1663.0,
+        443.0
+      ],
+      "source_snap_distance_px": 9.806,
+      "target_snap_distance_px": 17.424,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm003",
+      "pair": "A0006_to_A0009",
+      "name": "center_seam_upper",
+      "line_color": "black",
+      "source_xy": [
+        1184.0,
+        559.0
+      ],
+      "target_xy": [
+        933.0,
+        415.0
+      ],
+      "source_snap_distance_px": 11.401,
+      "target_snap_distance_px": 21.413,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm004",
+      "pair": "A0006_to_A0009",
+      "name": "center_seam_opening",
+      "line_color": "black",
+      "source_xy": [
+        1167.0,
+        811.0
+      ],
+      "target_xy": [
+        710.0,
+        721.0
+      ],
+      "source_snap_distance_px": 0.563,
+      "target_snap_distance_px": 1.985,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm005",
+      "pair": "A0006_to_A0009",
+      "name": "hood_left_side",
+      "line_color": "black",
+      "source_xy": [
+        619.0,
+        902.0
+      ],
+      "target_xy": [
+        623.0,
+        739.0
+      ],
+      "source_snap_distance_px": 2.436,
+      "target_snap_distance_px": 1.085,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm006",
+      "pair": "A0006_to_A0009",
+      "name": "hood_left_tip",
+      "line_color": "black",
+      "source_xy": [
+        513.0,
+        1186.0
+      ],
+      "target_xy": [
+        598.0,
+        1212.0
+      ],
+      "source_snap_distance_px": 1.804,
+      "target_snap_distance_px": 0.107,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm007",
+      "pair": "A0006_to_A0009",
+      "name": "hood_right_side",
+      "line_color": "black",
+      "source_xy": [
+        1696.0,
+        762.0
+      ],
+      "target_xy": [
+        1659.0,
+        624.0
+      ],
+      "source_snap_distance_px": 0.8,
+      "target_snap_distance_px": 7.985,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm008",
+      "pair": "A0006_to_A0009",
+      "name": "hood_right_tip",
+      "line_color": "black",
+      "source_xy": [
+        1744.0,
+        1301.0
+      ],
+      "target_xy": [
+        1618.0,
+        1385.0
+      ],
+      "source_snap_distance_px": 8.264,
+      "target_snap_distance_px": 33.088,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm009",
+      "pair": "A0006_to_A0009",
+      "name": "opening_left_hair",
+      "line_color": "black",
+      "source_xy": [
+        922.0,
+        914.0
+      ],
+      "target_xy": [
+        692.0,
+        723.0
+      ],
+      "source_snap_distance_px": 20.354,
+      "target_snap_distance_px": 0.401,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm010",
+      "pair": "A0006_to_A0009",
+      "name": "opening_right_hair",
+      "line_color": "black",
+      "source_xy": [
+        1249.0,
+        918.0
+      ],
+      "target_xy": [
+        969.0,
+        856.0
+      ],
+      "source_snap_distance_px": 43.412,
+      "target_snap_distance_px": 74.781,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm011",
+      "pair": "A0006_to_A0009",
+      "name": "eye_center",
+      "line_color": "green",
+      "source_xy": [
+        985.0,
+        949.0
+      ],
+      "target_xy": [
+        870.0,
+        929.0
+      ],
+      "source_snap_distance_px": 0.461,
+      "target_snap_distance_px": 5.862,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm012",
+      "pair": "A0006_to_A0009",
+      "name": "eye_left_corner",
+      "line_color": "black",
+      "source_xy": [
+        946.0,
+        952.0
+      ],
+      "target_xy": [
+        849.0,
+        934.0
+      ],
+      "source_snap_distance_px": 2.207,
+      "target_snap_distance_px": 1.449,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm013",
+      "pair": "A0006_to_A0009",
+      "name": "eye_right_corner",
+      "line_color": "black",
+      "source_xy": [
+        1037.0,
+        950.0
+      ],
+      "target_xy": [
+        899.0,
+        939.0
+      ],
+      "source_snap_distance_px": 2.862,
+      "target_snap_distance_px": 4.235,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm014",
+      "pair": "A0006_to_A0009",
+      "name": "nose_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1161.0,
+        1126.0
+      ],
+      "target_xy": [
+        951.0,
+        1100.0
+      ],
+      "source_snap_distance_px": 9.0,
+      "target_snap_distance_px": 4.6,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm015",
+      "pair": "A0006_to_A0009",
+      "name": "mouth_center",
+      "line_color": "black",
+      "source_xy": [
+        1168.0,
+        1202.0
+      ],
+      "target_xy": [
+        987.0,
+        1208.0
+      ],
+      "source_snap_distance_px": 2.894,
+      "target_snap_distance_px": 5.314,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm016",
+      "pair": "A0006_to_A0009",
+      "name": "chin",
+      "line_color": "black",
+      "source_xy": [
+        1172.0,
+        1312.0
+      ],
+      "target_xy": [
+        1045.0,
+        1298.0
+      ],
+      "source_snap_distance_px": 6.819,
+      "target_snap_distance_px": 2.894,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm017",
+      "pair": "A0006_to_A0009",
+      "name": "jaw_left",
+      "line_color": "black",
+      "source_xy": [
+        1002.0,
+        1216.0
+      ],
+      "target_xy": [
+        900.0,
+        1181.0
+      ],
+      "source_snap_distance_px": 35.478,
+      "target_snap_distance_px": 0.509,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm018",
+      "pair": "A0006_to_A0009",
+      "name": "jaw_right",
+      "line_color": "black",
+      "source_xy": [
+        1344.0,
+        1216.0
+      ],
+      "target_xy": [
+        1188.0,
+        1150.0
+      ],
+      "source_snap_distance_px": 34.37,
+      "target_snap_distance_px": 10.817,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm019",
+      "pair": "A0006_to_A0009",
+      "name": "neck_left",
+      "line_color": "black",
+      "source_xy": [
+        1090.0,
+        1315.0
+      ],
+      "target_xy": [
+        1017.0,
+        1301.0
+      ],
+      "source_snap_distance_px": 2.613,
+      "target_snap_distance_px": 6.285,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm020",
+      "pair": "A0006_to_A0009",
+      "name": "neck_right",
+      "line_color": "black",
+      "source_xy": [
+        1264.0,
+        1314.0
+      ],
+      "target_xy": [
+        1162.0,
+        1256.0
+      ],
+      "source_snap_distance_px": 0.791,
+      "target_snap_distance_px": 11.813,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm021",
+      "pair": "A0006_to_A0009",
+      "name": "collar_left_inner",
+      "line_color": "black",
+      "source_xy": [
+        982.0,
+        1472.0
+      ],
+      "target_xy": [
+        954.0,
+        1433.0
+      ],
+      "source_snap_distance_px": 0.801,
+      "target_snap_distance_px": 5.0,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm022",
+      "pair": "A0006_to_A0009",
+      "name": "collar_right_inner",
+      "line_color": "black",
+      "source_xy": [
+        1356.0,
+        1472.0
+      ],
+      "target_xy": [
+        1267.0,
+        1428.0
+      ],
+      "source_snap_distance_px": 1.201,
+      "target_snap_distance_px": 15.46,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm023",
+      "pair": "A0006_to_A0009",
+      "name": "shoulder_left_blue",
+      "line_color": "blue",
+      "source_xy": [
+        744.0,
+        1489.0
+      ],
+      "target_xy": [
+        708.0,
+        1371.0
+      ],
+      "source_snap_distance_px": 4.811,
+      "target_snap_distance_px": 4.8,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm024",
+      "pair": "A0006_to_A0009",
+      "name": "shoulder_right_blue",
+      "line_color": "blue",
+      "source_xy": [
+        1516.0,
+        1460.0
+      ],
+      "target_xy": [
+        1473.0,
+        1471.0
+      ],
+      "source_snap_distance_px": 21.609,
+      "target_snap_distance_px": 46.262,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm025",
+      "pair": "A0006_to_A0009",
+      "name": "hood_mark_left_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1074.0,
+        629.0
+      ],
+      "target_xy": [
+        744.0,
+        554.0
+      ],
+      "source_snap_distance_px": 0.405,
+      "target_snap_distance_px": 7.688,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm026",
+      "pair": "A0006_to_A0009",
+      "name": "hood_mark_right_tip",
+      "line_color": "blue",
+      "source_xy": [
+        1451.0,
+        728.0
+      ],
+      "target_xy": [
+        997.0,
+        686.0
+      ],
+      "source_snap_distance_px": 2.406,
+      "target_snap_distance_px": 1.51,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm027",
+      "pair": "A0006_to_A0009",
+      "name": "hood_right_mark_top",
+      "line_color": "blue",
+      "source_xy": [
+        1693.0,
+        762.0
+      ],
+      "target_xy": [
+        1671.0,
+        605.0
+      ],
+      "source_snap_distance_px": 4.8,
+      "target_snap_distance_px": 77.198,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm028",
+      "pair": "A0006_to_A0009",
+      "name": "fringe_left_tip",
+      "line_color": "black",
+      "source_xy": [
+        912.0,
+        1010.0
+      ],
+      "target_xy": [
+        694.0,
+        1001.0
+      ],
+      "source_snap_distance_px": 8.358,
+      "target_snap_distance_px": 2.81,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm029",
+      "pair": "A0006_to_A0009",
+      "name": "fringe_center_tip",
+      "line_color": "black",
+      "source_xy": [
+        1141.0,
+        1080.0
+      ],
+      "target_xy": [
+        955.0,
+        1110.0
+      ],
+      "source_snap_distance_px": 21.26,
+      "target_snap_distance_px": 0.927,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm030",
+      "pair": "A0006_to_A0009",
+      "name": "fringe_right_tip",
+      "line_color": "black",
+      "source_xy": [
+        1288.0,
+        1064.0
+      ],
+      "target_xy": [
+        1084.0,
+        1121.0
+      ],
+      "source_snap_distance_px": 9.085,
+      "target_snap_distance_px": 0.238,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm031",
+      "pair": "A0006_to_A0009",
+      "name": "hair_left_lower",
+      "line_color": "black",
+      "source_xy": [
+        890.0,
+        1402.0
+      ],
+      "target_xy": [
+        830.0,
+        1352.0
+      ],
+      "source_snap_distance_px": 18.783,
+      "target_snap_distance_px": 6.702,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    },
+    {
+      "landmark_id": "A0006_to_A0009_lm032",
+      "pair": "A0006_to_A0009",
+      "name": "hair_right_lower",
+      "line_color": "black",
+      "source_xy": [
+        1403.0,
+        1374.0
+      ],
+      "target_xy": [
+        1315.0,
+        1359.0
+      ],
+      "source_snap_distance_px": 13.343,
+      "target_snap_distance_px": 19.131,
+      "decision": "accepted",
+      "decision_source": "assistant_semantic_review",
+      "usage": "TPS/control-point constraint; not claimed as dense node ground truth"
+    }
+  ]
+}

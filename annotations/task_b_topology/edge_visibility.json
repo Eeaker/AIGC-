@@ -1,0 +1,401 @@
+[
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "hood_outer_left",
+    "source_edge_ids": [
+      "A0001_bke0001",
+      "A0001_bke0009"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0000",
+      "A0006_bke0016"
+    ],
+    "visible_ratio_5px": 0.70667,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "hood_outer_right",
+    "source_edge_ids": [
+      "A0001_bke0000",
+      "A0001_bke0004"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0001",
+      "A0006_bke0126"
+    ],
+    "visible_ratio_5px": 0.51667,
+    "near_ratio_12px": 0.74,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "hood_center_seam",
+    "source_edge_ids": [
+      "A0001_bke0002"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0002"
+    ],
+    "visible_ratio_5px": 0.17578,
+    "near_ratio_12px": 0.44531,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "not_observed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "hood_opening_left",
+    "source_edge_ids": [
+      "A0001_bke0076"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0055"
+    ],
+    "visible_ratio_5px": 0.29268,
+    "near_ratio_12px": 0.65854,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "hood_opening_right",
+    "source_edge_ids": [
+      "A0001_bke0069"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0075"
+    ],
+    "visible_ratio_5px": 0.46667,
+    "near_ratio_12px": 0.83333,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "visible_eye",
+    "source_edge_ids": [
+      "A0001_bke0036",
+      "A0001_gne0002"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0019",
+      "A0006_gne0002"
+    ],
+    "visible_ratio_5px": 1.0,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "face_contour",
+    "source_edge_ids": [
+      "A0001_bke0059",
+      "A0001_bke0102"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0076",
+      "A0006_bke0118"
+    ],
+    "visible_ratio_5px": 0.65683,
+    "near_ratio_12px": 0.94096,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "fringe_left",
+    "source_edge_ids": [
+      "A0001_bke0045"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0039"
+    ],
+    "visible_ratio_5px": 0.875,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "fringe_center",
+    "source_edge_ids": [
+      "A0001_bke0040"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0045"
+    ],
+    "visible_ratio_5px": 0.72857,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "fringe_right",
+    "source_edge_ids": [
+      "A0001_bke0047"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0060"
+    ],
+    "visible_ratio_5px": 0.64045,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "nose_blue",
+    "source_edge_ids": [
+      "A0001_ble0015"
+    ],
+    "target_edge_ids": [
+      "A0006_ble0016"
+    ],
+    "visible_ratio_5px": 0.52459,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0001_to_A0006",
+    "semantic_stroke_id": "collar_neck",
+    "source_edge_ids": [
+      "A0001_bke0125"
+    ],
+    "target_edge_ids": [
+      "A0006_bke0136"
+    ],
+    "visible_ratio_5px": 1.0,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "hood_outer_left",
+    "source_edge_ids": [
+      "A0006_bke0000",
+      "A0006_bke0016"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0001"
+    ],
+    "visible_ratio_5px": 0.41667,
+    "near_ratio_12px": 0.73,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "hood_outer_right",
+    "source_edge_ids": [
+      "A0006_bke0001",
+      "A0006_bke0126"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0003",
+      "A0009_bke0146"
+    ],
+    "visible_ratio_5px": 0.26333,
+    "near_ratio_12px": 0.44,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "not_observed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "hood_center_seam",
+    "source_edge_ids": [
+      "A0006_bke0002"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0002"
+    ],
+    "visible_ratio_5px": 0.08594,
+    "near_ratio_12px": 0.21094,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "not_observed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "hood_opening_left",
+    "source_edge_ids": [
+      "A0006_bke0055"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0009"
+    ],
+    "visible_ratio_5px": 0.0,
+    "near_ratio_12px": 0.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "not_observed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "hood_opening_right",
+    "source_edge_ids": [
+      "A0006_bke0075"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0087"
+    ],
+    "visible_ratio_5px": 0.0,
+    "near_ratio_12px": 0.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "not_observed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "visible_eye",
+    "source_edge_ids": [
+      "A0006_bke0019",
+      "A0006_gne0002"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0035",
+      "A0009_gne0002"
+    ],
+    "visible_ratio_5px": 0.73016,
+    "near_ratio_12px": 0.77778,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "face_contour",
+    "source_edge_ids": [
+      "A0006_bke0076",
+      "A0006_bke0118"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0084",
+      "A0009_bke0086"
+    ],
+    "visible_ratio_5px": 0.24382,
+    "near_ratio_12px": 0.74558,
+    "visibility": "partially_occluded_by_hair",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "fringe_left",
+    "source_edge_ids": [
+      "A0006_bke0039"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0064"
+    ],
+    "visible_ratio_5px": 1.0,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "fringe_center",
+    "source_edge_ids": [
+      "A0006_bke0045"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0077"
+    ],
+    "visible_ratio_5px": 0.79412,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "visible"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "fringe_right",
+    "source_edge_ids": [
+      "A0006_bke0060"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0071"
+    ],
+    "visible_ratio_5px": 0.44211,
+    "near_ratio_12px": 0.6,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "nose_blue",
+    "source_edge_ids": [
+      "A0006_ble0016"
+    ],
+    "target_edge_ids": [
+      "A0009_ble0011"
+    ],
+    "visible_ratio_5px": 0.64286,
+    "near_ratio_12px": 1.0,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  },
+  {
+    "pair": "A0006_to_A0009",
+    "semantic_stroke_id": "collar_neck",
+    "source_edge_ids": [
+      "A0006_bke0136"
+    ],
+    "target_edge_ids": [
+      "A0009_bke0128"
+    ],
+    "visible_ratio_5px": 0.35859,
+    "near_ratio_12px": 0.64646,
+    "visibility": "visible",
+    "review_status": "accepted_semantic_manual",
+    "decision_source": "assistant_semantic_image_review",
+    "geometry_visibility_hint": "partially_visible_or_deformed"
+  }
+]

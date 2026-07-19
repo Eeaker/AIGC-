@@ -1,0 +1,256 @@
+RUN_START holdout=A0001 2026-07-17T21:04:27+08:00
+loaded initialization: outputs/dsv_pretrain_stage1/latest.pth
+step 1 total=2.0185 bce=0.8611 dice=0.9552 cldice=0.3854 udf=0.3307 gate=1.1687 identity=0.3342
+step 25 total=1.2687 bce=0.4634 dice=0.9248 cldice=0.1708 udf=0.2128 gate=0.4296 identity=0.2326
+step 50 total=1.0771 bce=0.3233 dice=0.9023 cldice=0.1351 udf=0.2332 gate=0.3893 identity=0.1760
+step 75 total=1.0342 bce=0.2893 dice=0.8857 cldice=0.1506 udf=0.2351 gate=0.3789 identity=0.1607
+step 100 total=0.9954 bce=0.2553 dice=0.8812 cldice=0.1808 udf=0.1912 gate=0.3565 identity=0.1557
+step 125 total=0.9451 bce=0.2376 dice=0.8761 cldice=0.1393 udf=0.1956 gate=0.3254 identity=0.1416
+step 150 total=0.9014 bce=0.2261 dice=0.8644 cldice=0.1078 udf=0.1741 gate=0.3082 identity=0.1316
+step 175 total=0.8847 bce=0.2225 dice=0.8535 cldice=0.1163 udf=0.1689 gate=0.2734 identity=0.1275
+step 200 total=0.9091 bce=0.2275 dice=0.8728 cldice=0.1412 udf=0.1442 gate=0.3001 identity=0.1136
+step 225 total=0.8802 bce=0.2294 dice=0.8297 cldice=0.1285 udf=0.1622 gate=0.2897 identity=0.1055
+step 250 total=0.9539 bce=0.2032 dice=0.8698 cldice=0.3390 udf=0.1269 gate=0.2564 identity=0.1008
+step 275 total=0.7867 bce=0.1579 dice=0.8470 cldice=0.1127 udf=0.1009 gate=0.2467 identity=0.1014
+step 300 total=0.8723 bce=0.2532 dice=0.7921 cldice=0.1477 udf=0.1779 gate=0.2263 identity=0.0826
+step 325 total=0.9518 bce=0.1123 dice=0.9101 cldice=0.5516 udf=0.0910 gate=0.1871 identity=0.0862
+step 350 total=0.7411 bce=0.1554 dice=0.7903 cldice=0.0958 udf=0.1352 gate=0.2293 identity=0.0784
+step 375 total=0.8631 bce=0.1504 dice=0.8372 cldice=0.3366 udf=0.1314 gate=0.2095 identity=0.0737
+step 400 total=0.7326 bce=0.1481 dice=0.7904 cldice=0.1151 udf=0.1281 gate=0.2070 identity=0.0688
+step 425 total=0.6922 bce=0.1343 dice=0.7843 cldice=0.0843 udf=0.0992 gate=0.1955 identity=0.0664
+step 450 total=0.7067 bce=0.1593 dice=0.7423 cldice=0.0979 udf=0.1329 gate=0.2015 identity=0.0603
+step 475 total=0.6745 bce=0.1333 dice=0.7542 cldice=0.0896 udf=0.1133 gate=0.1840 identity=0.0578
+step 500 total=0.7691 bce=0.0997 dice=0.8155 cldice=0.3134 udf=0.0962 gate=0.1776 identity=0.0541
+step 525 total=0.7601 bce=0.0764 dice=0.8457 cldice=0.3280 udf=0.0849 gate=0.1541 identity=0.0518
+step 550 total=0.6391 bce=0.0995 dice=0.7437 cldice=0.1128 udf=0.0937 gate=0.1859 identity=0.0486
+step 575 total=0.6144 bce=0.0958 dice=0.7298 cldice=0.0962 udf=0.0924 gate=0.1665 identity=0.0458
+step 600 total=0.6309 bce=0.1218 dice=0.7008 cldice=0.1017 udf=0.1150 gate=0.1681 identity=0.0429
+step 625 total=0.7238 bce=0.0874 dice=0.7732 cldice=0.3146 udf=0.0960 gate=0.1539 identity=0.0396
+step 650 total=0.6335 bce=0.0978 dice=0.7652 cldice=0.1004 udf=0.0925 gate=0.1592 identity=0.0378
+step 675 total=0.5760 bce=0.0901 dice=0.6946 cldice=0.0851 udf=0.0890 gate=0.1473 identity=0.0363
+step 700 total=0.5559 bce=0.0725 dice=0.6989 cldice=0.0779 udf=0.0876 gate=0.1430 identity=0.0356
+{
+  "split": {
+    "train": [
+      "A0006",
+      "A0009"
+    ],
+    "holdout": "A0001"
+  },
+  "current": {
+    "pred_topology": {
+      "components": 30,
+      "components_le_5px": 10,
+      "isolated_pixels": 5
+    },
+    "ref_topology": {
+      "components": 32,
+      "components_le_5px": 0,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 28763,
+    "ref_line_pixels": 41934,
+    "pred_to_ref_mean_px": 0.19753313064575195,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 4.28587007522583,
+    "local_tangent_p90_deg": 9.23158073425293,
+    "precision_2px": 0.9914473455481,
+    "recall_2px": 0.9850717794629656,
+    "f1_2px": 0.9882492798215984,
+    "color_macro_f1_2px": 0.816367682447927
+  },
+  "candidate": {
+    "pred_topology": {
+      "components": 29,
+      "components_le_5px": 6,
+      "isolated_pixels": 4
+    },
+    "ref_topology": {
+      "components": 32,
+      "components_le_5px": 0,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 47722,
+    "ref_line_pixels": 41934,
+    "pred_to_ref_mean_px": 0.25687021017074585,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 2.7678353786468506,
+    "local_tangent_p90_deg": 5.910029411315918,
+    "precision_2px": 0.9956833326348434,
+    "recall_2px": 0.9907235179090953,
+    "f1_2px": 0.9931972332468797,
+    "color_macro_f1_2px": 0.924993298029965
+  }
+}
+RUN_END holdout=A0001 2026-07-17T21:04:55+08:00
+RUN_START holdout=A0006 2026-07-17T21:04:55+08:00
+loaded initialization: outputs/dsv_pretrain_stage1/latest.pth
+step 1 total=2.0185 bce=0.8611 dice=0.9552 cldice=0.3854 udf=0.3307 gate=1.1687 identity=0.3342
+step 25 total=1.2906 bce=0.4558 dice=0.9375 cldice=0.2216 udf=0.1875 gate=0.4412 identity=0.2387
+step 50 total=1.1462 bce=0.3795 dice=0.8933 cldice=0.1586 udf=0.2842 gate=0.3878 identity=0.1672
+step 75 total=1.1104 bce=0.3524 dice=0.8596 cldice=0.1957 udf=0.2904 gate=0.3766 identity=0.1498
+step 100 total=1.0700 bce=0.2379 dice=0.9244 cldice=0.3480 udf=0.1579 gate=0.3556 identity=0.1555
+step 125 total=1.0795 bce=0.2558 dice=0.9045 cldice=0.3520 udf=0.1765 gate=0.3626 identity=0.1396
+step 150 total=1.1309 bce=0.1797 dice=0.9452 cldice=0.6505 udf=0.1038 gate=0.3028 identity=0.1406
+step 175 total=0.9550 bce=0.2514 dice=0.8577 cldice=0.1847 udf=0.1783 gate=0.3055 identity=0.1224
+step 200 total=0.8660 bce=0.2216 dice=0.8349 cldice=0.1226 udf=0.1529 gate=0.2570 identity=0.1174
+step 225 total=0.8868 bce=0.2154 dice=0.8485 cldice=0.1575 udf=0.1652 gate=0.2735 identity=0.1080
+step 250 total=0.9467 bce=0.1988 dice=0.8667 cldice=0.3352 udf=0.1302 gate=0.2552 identity=0.1019
+step 275 total=0.8764 bce=0.1381 dice=0.8986 cldice=0.3137 udf=0.0912 gate=0.2205 identity=0.0985
+step 300 total=0.7922 bce=0.1918 dice=0.8009 cldice=0.1011 udf=0.1403 gate=0.2362 identity=0.0911
+step 325 total=0.7401 bce=0.1418 dice=0.8174 cldice=0.0870 udf=0.1194 gate=0.2400 identity=0.0857
+step 350 total=0.7056 bce=0.1340 dice=0.7953 cldice=0.0789 udf=0.1182 gate=0.2033 identity=0.0808
+step 375 total=0.8105 bce=0.1103 dice=0.8434 cldice=0.3202 udf=0.1103 gate=0.1897 identity=0.0759
+step 400 total=0.8782 bce=0.1798 dice=0.8116 cldice=0.3391 udf=0.1382 gate=0.2076 identity=0.0663
+step 425 total=0.7174 bce=0.1605 dice=0.7595 cldice=0.0999 udf=0.1242 gate=0.1988 identity=0.0656
+step 450 total=0.6846 bce=0.1064 dice=0.8048 cldice=0.1108 udf=0.1100 gate=0.1795 identity=0.0625
+step 475 total=0.6528 bce=0.1152 dice=0.7491 cldice=0.0922 udf=0.1119 gate=0.1772 identity=0.0584
+step 500 total=0.6457 bce=0.1168 dice=0.7400 cldice=0.0849 udf=0.1254 gate=0.1699 identity=0.0539
+step 525 total=0.6398 bce=0.1146 dice=0.7371 cldice=0.0887 udf=0.1062 gate=0.1735 identity=0.0509
+step 550 total=0.7267 bce=0.0753 dice=0.8015 cldice=0.3079 udf=0.0866 gate=0.1600 identity=0.0489
+step 575 total=0.6078 bce=0.1025 dice=0.7111 cldice=0.0916 udf=0.0960 gate=0.1582 identity=0.0473
+step 600 total=0.6062 bce=0.0933 dice=0.7234 cldice=0.0850 udf=0.1008 gate=0.1739 identity=0.0439
+step 625 total=0.7179 bce=0.0853 dice=0.7758 cldice=0.3098 udf=0.0896 gate=0.1450 identity=0.0415
+step 650 total=0.5843 bce=0.0843 dice=0.7092 cldice=0.0888 udf=0.0866 gate=0.1633 identity=0.0393
+step 675 total=0.6905 bce=0.0621 dice=0.7842 cldice=0.3124 udf=0.0734 gate=0.1233 identity=0.0365
+step 700 total=0.5921 bce=0.0803 dice=0.7297 cldice=0.0958 udf=0.0946 gate=0.1530 identity=0.0341
+{
+  "split": {
+    "train": [
+      "A0001",
+      "A0009"
+    ],
+    "holdout": "A0006"
+  },
+  "current": {
+    "pred_topology": {
+      "components": 41,
+      "components_le_5px": 10,
+      "isolated_pixels": 5
+    },
+    "ref_topology": {
+      "components": 36,
+      "components_le_5px": 2,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 32768,
+    "ref_line_pixels": 47141,
+    "pred_to_ref_mean_px": 0.24664300680160522,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 4.813356399536133,
+    "local_tangent_p90_deg": 10.319875717163086,
+    "precision_2px": 0.9869384765625,
+    "recall_2px": 0.9814598756920727,
+    "f1_2px": 0.9841915518912004,
+    "color_macro_f1_2px": 0.8177048619842022
+  },
+  "candidate": {
+    "pred_topology": {
+      "components": 37,
+      "components_le_5px": 8,
+      "isolated_pixels": 2
+    },
+    "ref_topology": {
+      "components": 36,
+      "components_le_5px": 2,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 54841,
+    "ref_line_pixels": 47141,
+    "pred_to_ref_mean_px": 0.2754037082195282,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 3.0410265922546387,
+    "local_tangent_p90_deg": 6.145680904388428,
+    "precision_2px": 0.9921591510001642,
+    "recall_2px": 0.9887571328567489,
+    "f1_2px": 0.9904552206219019,
+    "color_macro_f1_2px": 0.9249155003883374
+  }
+}
+RUN_END holdout=A0006 2026-07-17T21:05:23+08:00
+RUN_START holdout=A0009 2026-07-17T21:05:24+08:00
+loaded initialization: outputs/dsv_pretrain_stage1/latest.pth
+step 1 total=1.9865 bce=0.7754 dice=0.9664 cldice=0.5205 udf=0.2628 gate=1.1569 identity=0.3449
+step 25 total=1.2561 bce=0.4471 dice=0.9294 cldice=0.1810 udf=0.1929 gate=0.4252 identity=0.2382
+step 50 total=1.1515 bce=0.3812 dice=0.8940 cldice=0.1696 udf=0.2840 gate=0.3798 identity=0.1683
+step 75 total=1.0572 bce=0.2942 dice=0.9042 cldice=0.1836 udf=0.2221 gate=0.3616 identity=0.1610
+step 100 total=1.1336 bce=0.4055 dice=0.8538 cldice=0.1740 udf=0.3034 gate=0.3220 identity=0.1300
+step 125 total=1.0524 bce=0.3541 dice=0.8398 cldice=0.1423 udf=0.2629 gate=0.3269 identity=0.1270
+step 150 total=0.9027 bce=0.2316 dice=0.8690 cldice=0.1033 udf=0.1753 gate=0.2877 identity=0.1325
+step 175 total=0.9035 bce=0.2337 dice=0.8595 cldice=0.1222 udf=0.1669 gate=0.2858 identity=0.1241
+step 200 total=0.9503 bce=0.1748 dice=0.9025 cldice=0.3435 udf=0.1250 gate=0.2558 identity=0.1187
+step 225 total=0.8825 bce=0.2167 dice=0.8555 cldice=0.1448 udf=0.1561 gate=0.2669 identity=0.1072
+step 250 total=0.8284 bce=0.1979 dice=0.8317 cldice=0.1104 udf=0.1498 gate=0.2534 identity=0.1003
+step 275 total=0.8080 bce=0.2048 dice=0.8169 cldice=0.0926 udf=0.1420 gate=0.2212 identity=0.0949
+step 300 total=0.8093 bce=0.2232 dice=0.7871 cldice=0.0927 udf=0.1667 gate=0.2111 identity=0.0846
+step 325 total=0.7545 bce=0.1723 dice=0.7937 cldice=0.0946 udf=0.1324 gate=0.2069 identity=0.0829
+step 350 total=0.7256 bce=0.1375 dice=0.8295 cldice=0.0806 udf=0.0972 gate=0.2085 identity=0.0800
+step 375 total=0.7077 bce=0.1119 dice=0.8463 cldice=0.0899 udf=0.1019 gate=0.1893 identity=0.0739
+step 400 total=0.6830 bce=0.1222 dice=0.7776 cldice=0.0909 udf=0.1162 gate=0.1927 identity=0.0690
+step 425 total=0.7028 bce=0.1548 dice=0.7511 cldice=0.0995 udf=0.1325 gate=0.1784 identity=0.0634
+step 450 total=0.6790 bce=0.1388 dice=0.7583 cldice=0.0846 udf=0.1120 gate=0.1774 identity=0.0611
+step 475 total=0.6573 bce=0.1276 dice=0.7502 cldice=0.0823 udf=0.1064 gate=0.1666 identity=0.0574
+step 500 total=0.6437 bce=0.1209 dice=0.7422 cldice=0.0797 udf=0.1080 gate=0.1648 identity=0.0532
+step 525 total=0.6332 bce=0.1109 dice=0.7353 cldice=0.0881 udf=0.0959 gate=0.1736 identity=0.0521
+step 550 total=0.6066 bce=0.0874 dice=0.7252 cldice=0.0875 udf=0.1043 gate=0.1813 identity=0.0491
+step 575 total=0.6138 bce=0.0712 dice=0.7988 cldice=0.0790 udf=0.0781 gate=0.1532 identity=0.0460
+step 600 total=0.5926 bce=0.0678 dice=0.7576 cldice=0.0966 udf=0.0813 gate=0.1423 identity=0.0429
+step 625 total=0.8426 bce=0.0690 dice=0.8562 cldice=0.5385 udf=0.0704 gate=0.1364 identity=0.0405
+step 650 total=0.6050 bce=0.0874 dice=0.7421 cldice=0.0909 udf=0.0903 gate=0.1554 identity=0.0387
+step 675 total=0.6978 bce=0.0811 dice=0.7444 cldice=0.3183 udf=0.0862 gate=0.1439 identity=0.0359
+step 700 total=0.5369 bce=0.0656 dice=0.6801 cldice=0.0811 udf=0.0797 gate=0.1369 identity=0.0351
+{
+  "split": {
+    "train": [
+      "A0001",
+      "A0006"
+    ],
+    "holdout": "A0009"
+  },
+  "current": {
+    "pred_topology": {
+      "components": 24,
+      "components_le_5px": 5,
+      "isolated_pixels": 2
+    },
+    "ref_topology": {
+      "components": 25,
+      "components_le_5px": 0,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 29479,
+    "ref_line_pixels": 43401,
+    "pred_to_ref_mean_px": 0.23304545879364014,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 4.314978122711182,
+    "local_tangent_p90_deg": 9.744124412536621,
+    "precision_2px": 0.9896875742053666,
+    "recall_2px": 0.9742632658233681,
+    "f1_2px": 0.9819148509603427,
+    "color_macro_f1_2px": 0.8004395844664387
+  },
+  "candidate": {
+    "pred_topology": {
+      "components": 28,
+      "components_le_5px": 7,
+      "isolated_pixels": 4
+    },
+    "ref_topology": {
+      "components": 25,
+      "components_le_5px": 0,
+      "isolated_pixels": 0
+    },
+    "pred_line_pixels": 49305,
+    "ref_line_pixels": 43401,
+    "pred_to_ref_mean_px": 0.25219085812568665,
+    "pred_to_ref_p95_px": 1.0,
+    "local_tangent_mean_deg": 2.7667877674102783,
+    "local_tangent_p90_deg": 6.166882038116455,
+    "precision_2px": 0.9926985092789777,
+    "recall_2px": 0.980369115918988,
+    "f1_2px": 0.9864952903662211,
+    "color_macro_f1_2px": 0.8591487350289922
+  }
+}
+RUN_END holdout=A0009 2026-07-17T21:05:50+08:00
+BACKBONE_END 2026-07-17T21:05:50+08:00
