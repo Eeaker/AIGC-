@@ -14,13 +14,12 @@
 
 ## 推荐阅读顺序
 
-1. **Word 技术报告：** `report.docx`
-2. **Markdown 长版：** `report.md`
-3. **数据与评测边界：** `docs/DATA_AND_EVAL_BOUNDARY.md`
-4. **方法摘要：** `docs/METHOD_SUMMARY.md`
-5. **复现说明：** `docs/REPRODUCIBILITY.md`
-6. **负结果：** `experiments/NEGATIVE_RESULTS.md`
-7. **AI 工具披露：** `docs/AI_TOOL_USAGE.md`
+1. **技术报告：** `report.md`
+2. **数据与评测边界：** `docs/DATA_AND_EVAL_BOUNDARY.md`
+3. **方法摘要：** `docs/METHOD_SUMMARY.md`
+4. **复现说明：** `docs/REPRODUCIBILITY.md`
+5. **负结果：** `experiments/NEGATIVE_RESULTS.md`
+6. **AI 工具披露：** `docs/AI_TOOL_USAGE.md`
 
 ## 快速验收
 
