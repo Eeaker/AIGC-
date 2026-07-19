@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import argparse
+import csv
 import json
 from pathlib import Path
 import sys
@@ -12,6 +13,25 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from src.io_utils import imread
 from src.metrics import (closure_metrics, color_compliance, color_line_f1,
                          region_color_metrics, union_tolerance_f1)
+
+
+def _write_flat_csv(metrics: dict[str, object], output_path: Path) -> None:
+    """Export the validated JSON payload to CSV from the same source of truth."""
+    rows: list[dict[str, object]] = []
+    metric_keys: set[str] = set()
+    for task in ("A", "B", "C"):
+        frames = metrics[task]
+        assert isinstance(frames, dict)
+        for frame, values in frames.items():
+            assert isinstance(values, dict)
+            metric_keys.update(values.keys())
+            rows.append({"task": task, "frame": frame, **values})
+    fieldnames = ["task", "frame", *sorted(metric_keys)]
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    with output_path.open("w", encoding="utf-8-sig", newline="") as handle:
+        writer = csv.DictWriter(handle, fieldnames=fieldnames, extrasaction="ignore")
+        writer.writeheader()
+        writer.writerows(rows)
 
 
 def main() -> None:
@@ -72,9 +92,8 @@ def main() -> None:
     assert len(seeds) == 153, len(seeds)
     metrics["metadata"]["task_c_seed_count"] = len(seeds)
 
-    # Keep the zero-label baseline self-describing.  Recompute this file from
-    # images during validation instead of maintaining a second hand-written
-    # copy of the headline numbers.
+    # Keep the zero-label baseline self-describing. Recompute this file from
+    # images during validation instead of maintaining a hand-written copy.
     automatic_dir = args.root / "outputs" / "algorithm_only" / "task_c_automatic"
     automatic_frames: dict[str, object] = {}
     automatic_line_changes = 0
@@ -97,9 +116,11 @@ def main() -> None:
     }
     (automatic_dir / "metrics.json").write_text(
         json.dumps(automatic_payload, ensure_ascii=False, indent=2), encoding="utf-8")
+
     out = args.root / "outputs" / "summary" / "official_metrics.json"
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(metrics, ensure_ascii=False, indent=2), encoding="utf-8")
+    _write_flat_csv(metrics, out.with_suffix(".csv"))
     for task, folder in (("A", "task_a"), ("B", "task_b"), ("C", "task_c_assisted")):
         (official / folder / "metrics.json").write_text(
             json.dumps({"metadata": metrics["metadata"], "frames": metrics[task]},
