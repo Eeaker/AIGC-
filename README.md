@@ -14,7 +14,7 @@
 
 ## 推荐阅读顺序
 
-1. **Word 技术报告：** `report.docx`（正式排版稿，建议从 Word 人工导出 PDF）
+1. **Word 技术报告：** `report.docx`
 2. **Markdown 长版：** `report.md`
 3. **数据与评测边界：** `docs/DATA_AND_EVAL_BOUNDARY.md`
 4. **方法摘要：** `docs/METHOD_SUMMARY.md`
